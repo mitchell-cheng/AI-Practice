@@ -8,3 +8,5 @@ A series of machine learning projects
 * Logistic regression with neural network
 * Planar data classification with one hidden layer
 * A simple deep neural network
+* Regularization
+* Gradient check
