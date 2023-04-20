@@ -10,3 +10,4 @@ A series of machine learning projects
 * A simple deep neural network
 * Regularization
 * Gradient check
+* Optimization methods
