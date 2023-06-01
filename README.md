@@ -1,7 +1,7 @@
 # Machine-Learning-Practice
 A series of machine learning projects
 
-## Deep Learning
+## Deep Learning Basic
 
 * Basic numpy with python
 * Initialization
@@ -11,3 +11,7 @@ A series of machine learning projects
 * Regularization
 * Gradient check
 * Optimization methods
+
+## Diffusion Models
+
+* Denoising Diffusion Probabilistic Model
