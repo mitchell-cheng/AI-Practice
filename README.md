@@ -29,3 +29,4 @@ A series of machine learning projects
   - autograd profiler
   - pytorch profiler
   - triton for `torch.mean()`
+- Intro to Pmpp

@@ -66,3 +66,10 @@ if __name__ == "__main__":
     print(f"PyTorch mean: {torch_mean}")
     print(f"Triton mean: {triton_mean_result}")
     print(f"Difference: {abs(torch_mean - triton_mean_result)}")
+
+
+"""
+PyTorch mean: 0.0005773120792582631
+Triton mean: 0.0005773113225586712
+Difference: 7.566995918750763e-10
+"""
