@@ -30,3 +30,7 @@ A series of machine learning projects
   - pytorch profiler
   - triton for `torch.mean()`
 - Intro to Pmpp
+
+## Triton Challenges
+
+- Vector Addition
