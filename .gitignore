@@ -1,1 +1,10 @@
 .DS_Store
+
+.python-version
+.env
+.pyproject.toml
+uv.lock
+model.tar
+
+.venv/
+
