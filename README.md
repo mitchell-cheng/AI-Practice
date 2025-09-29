@@ -1,6 +1,6 @@
-# Machine-Learning-Practice
+# AI Practice
 
-A series of machine learning projects
+A series of AI projects
 
 ## Deep Learning Basic
 
