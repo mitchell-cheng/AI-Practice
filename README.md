@@ -13,6 +13,15 @@ A series of AI projects
 - Gradient check
 - Optimization methods
 
+## Deep Learning
+
+### Deep Learning 1
+
+- Introduction to PyTorch
+- Activation functions
+- Initialization & Optimization
+- Inception, ResNet and DenseNet
+
 ## Diffusion Models
 
 - Denoising Diffusion Probabilistic Model
