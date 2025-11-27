@@ -1,8 +1,6 @@
---find-links https://download.pytorch.org/whl/torch_stable.html
-
 pandas
 torch
-torchdata
+torchdata==0.7.1
 torchtext
 spacy
 altair
@@ -11,3 +9,4 @@ flake8
 black
 GPUtil
 wandb
+portalocker==2.8.2
