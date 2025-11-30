@@ -3,3 +3,5 @@ matplotlib
 tensorflow
 tqdm
 torch
+numpy
+pandas
