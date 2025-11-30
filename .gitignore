@@ -11,3 +11,5 @@ saved_models/
 .venv/
 
 __pycache__/
+gpt2/
+*.pth
