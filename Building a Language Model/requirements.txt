@@ -1,2 +1,5 @@
 tiktoken
 matplotlib
+tensorflow
+tqdm
+torch
