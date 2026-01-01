@@ -13,6 +13,8 @@ sms_spam_collection/
 sms_spam_collection.zip
 gpt2/
 
+.pycache/
+pyproject.toml
 
 *.pth
 *.csv
