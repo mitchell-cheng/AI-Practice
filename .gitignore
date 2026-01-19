@@ -21,3 +21,5 @@ pyproject.toml
 
 *.png
 *.pdf
+
+WARP.md
