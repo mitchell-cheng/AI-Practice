@@ -25,3 +25,6 @@ pyproject.toml
 WARP.md
 
 .vscode/
+
+__marimo__
+layouts/
